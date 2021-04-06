@@ -23,4 +23,4 @@
 <>
 
 ###### _Бота сделали t0chka2020 и Expl0itt. Иконку бота сделал ElectricStepa_
-![Bot icon]()
+![Bot icon](https://ibb.co/nbHp6Kb)
