@@ -1,7 +1,26 @@
-# _Docs for BRUH Official discord server bot_
+![Watermark]()
+# _**Документация к BRUH Official дискорд боту**_
 
-This is a discord bot for BRUH Official server. Its functionality is entertainment and economics. Let me tell you about this in more detail.
+Этот бот был написан оффициального дискорд сервера BRUH Official. Он предназначен для контроля над сервером (контроль чатов чтобы в них не было мата, спама и конфликтов) и для развлечения. Теперь давайте мы расскажем поподробнее что может этот бот.
 
-## _Beginning_
+### _**Введение**_
 
+Сперва я бы хотел выразить огромную благодарность Expl0itt (Telegram: @SepultureSA) и ElectricStepa(twitter.com/electricstepagd) 
 
+### _**Функционал бота.**_
+## _*Основной функционал.*_
+
+<>
+
+## _*Модуль для развлечения.*_
+###### _by t0chka2020_
+
+<>
+
+## _*Экономический модуль.*_
+###### _by Expl0itt_
+
+<>
+
+###### _Бота сделали T0CHKA и Expl0itt. Иконка бота сделал ElectricStepa_
+![Bot icon]()
