@@ -4,11 +4,11 @@ import discord
 from discord.ext import commands, tasks
 from config import FuncA, color, status
 
+
 client = commands.Bot(command_prefix=FuncA['PREFIX'], intents=discord.Intents.all())
 client.remove_command('help')
 connection = sqlite3.connect('info.db')
 cursor = connection.cursor()
-
 
 @client.event
 async def on_ready():
