@@ -1,5 +1,5 @@
 from itertools import cycle
-
+import ctypes
 
 FuncA = {
     'PREFIX': '!',
@@ -7,4 +7,6 @@ FuncA = {
     'ID': '811678781022535700',
 }
 color = (0xFFFFFF, 0x00FFFF, 0x0080FF, 0xFF00FF, 0x0000FF, 0xFFFF00, 0xFF8000, 0xFF0000, 0x00FF00)
-status = cycle(['Use "!help" for help', "If you find bug, tell it to T0CHKA#2838 or Sepulturēsa#1141"])
+status = cycle(['Используйте "!help" для помощи', "Если вы нашли баг сообщите его T0CHKA#2838"])
+
+kernel32 = ctypes.windll.kernel32
